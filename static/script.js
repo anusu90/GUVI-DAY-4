@@ -11,7 +11,7 @@ let taskAssignment = [{'task':'Print odd numbers in an array', 'func':isOdd},
 {'task':'Convert all the strings to title caps in a string array','func':titleCaps},
 {'task':'Sum of all numbers in an array','func':findSum},
 {'task':'Return all the prime numbers in an array', 'func':isPrime},
-{'task':'Return all the palindromes in an array'},
+{'task':'Return all the palindromes in an array', 'func':findPalindrome},
 {'task':'Return median of two sorted arrays of same size','func':arrayMedian},
 {'task':'Remove duplicates from an array','func':removeDuplicates},
 {'task':'Rotate an array by k times and return the rotated array','func':rotateArray}
